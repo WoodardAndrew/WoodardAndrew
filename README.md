@@ -1,6 +1,6 @@
 <h1> Hi, I'm Andrew! </h1>
 
-<h2> 👨‍💻 Cybersecurity Projects: </h2>
+<h2> 👨‍💻 Cybersecurity Projects </h2>
 
 - [SOC Analyst Home Lab](https://github.com/WoodardAndrew/LABURL)
 
