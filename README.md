@@ -2,7 +2,7 @@
 
 <h2> 👨‍💻 Cybersecurity Projects </h2>
 
-- [SOC Analyst Home Lab](https://github.com/WoodardAndrew/LABURL)
+- [SOC Analyst Home Lab](https://github.com/WoodardAndrew/SOC-Analyst-Home-Lab)
 
 <h2> 📄 Certifications <h2>
 
