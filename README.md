@@ -3,6 +3,7 @@
 <h2> 👨‍💻 Cybersecurity Projects </h2>
 
 - [SOC Analyst Home Lab](https://github.com/WoodardAndrew/SOC-Analyst-Home-Lab)
+- [Malware Analysis Home Lab](https://github.com/WoodardAndrew/Malware-Analysis-Home-Lab)
 
 <h2> 📄 Certifications <h2>
 
